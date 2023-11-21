@@ -1,0 +1,4729 @@
+fileFormatVersion: 2
+guid: 59aa28f7b029eac4ab14e4ca09845d9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a0333d81226d449d55d0b8d61a990
+      internalID: 328517420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9a21e3b0530fc4c80530583a9cb8a5
+      internalID: -1121677787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a9b33416aa4d3469ad5218b23c5d9d
+      internalID: 748709592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d72f2e44b0065448fa431e61a828aa
+      internalID: -1352701120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 896
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925d3fe511fbb74a8dab2a82772b130
+      internalID: -1308962092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 864
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d44538e3d60cc4fb3b964370e191ce
+      internalID: 404148475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd344879ad78c5479a5ee12995a8417
+      internalID: 1690066335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 800
+        width: 25
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a8bddf972449740a74e97dc2975d54
+      internalID: 516877400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 816
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cde0407ed1119a4c8598f563a68b705
+      internalID: -1806498839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 800
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a75aee672d25448942bcd0c5cb92c3
+      internalID: -1754116009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 760
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32f7984ad452843bd19920e39e7d03
+      internalID: 182859396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 760
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14505d980517ee14683e45dda0d1835e
+      internalID: 430199417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 760
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7517faf2b90abbc4e90cb340a8bd652e
+      internalID: -1649905444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 782
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883921125e399e34ab5d5655198a6ab0
+      internalID: 2006749798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 760
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a957c485ae5d7744abde3bb28248bc2
+      internalID: -912434549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 760
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abcb2cf0a8748a4292d6027b7e66b35
+      internalID: 1781308655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 760
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0d3d19ab0df544b185dc58dc5002f
+      internalID: 233446754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 728
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9995e78a0f689842a08f3c6b3733ec2
+      internalID: 169071616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 728
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daadd09629118145b47e3d0a531b57c
+      internalID: 1049554573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 728
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce79fcaefb14aa478134c1c1c33cac1
+      internalID: -326274600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 728
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f48b076179b1f4f999c7375e32b585
+      internalID: 190351891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 720
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af9f1c9879184d4eb126ab1ab9c727c
+      internalID: -1728965734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 720
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a2c3c3ef14ab41bbe7460baacdd38
+      internalID: -617684517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 720
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d7e33d2ac6484d8990fea49da91ce
+      internalID: -1512170302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 688
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fdd4a66e73f564f946511566021431
+      internalID: -1032221493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 688
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6554d14015af42a114c2757adc290
+      internalID: -171972956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 688
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da52fdb257f68d47a65994ce3a1e77c
+      internalID: 86130274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 710
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22858e05631514087801e0957326bf
+      internalID: -11910907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 688
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de41468f0fadfd84880c6881dd915ab4
+      internalID: 1465191444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 680
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c56689e39f0342994d847b1fed46e
+      internalID: -578524648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 680
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315371b6710dbe746a72a404f93f5ece
+      internalID: 1137669649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 680
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc5fb0146a0be4b83d6377ed14d24f
+      internalID: 249012997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 656
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad1ddcf5bee3d4ab3714da3ca58073
+      internalID: -183868778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 656
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfaa71120ad99045955cbf31b7a341c
+      internalID: 131667306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 656
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f87ec702d58b254f97d5429eec4404b
+      internalID: 365058088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 656
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b96285434420340a47a65adffc14bc
+      internalID: 457190854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 640
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5702ff330e4fae49b0b7b170755f9f0
+      internalID: 620896424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 640
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b932898838613940941f2b89149554b
+      internalID: -517917640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 640
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf7995cbce9a04bad15bc0c91c77d7
+      internalID: 1059162248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 616
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e163ec969a9ad43be3505dfd32efc7
+      internalID: -1161441528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 616
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f627e9d9962144eae1540f668ee0d5
+      internalID: -1380302291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 616
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a162ad74f97ad43b1febdd23c58a53
+      internalID: 1439964700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 638
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81635668a230f554eb5c59da2f7d6b9d
+      internalID: -1467154506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 616
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f4939579680e42bf6a5c5bebb133e
+      internalID: 2092295237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36525ee22c997549aa5c52e91b4bd54
+      internalID: -652759225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 601
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772d5e6127d07274ca779a00b8bf60cf
+      internalID: 45909502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 601
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80fdd7af70fd424ba0899741d27ea2c
+      internalID: -729613152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 584
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2719b5f89a492d64aa549b2b82a84a40
+      internalID: -2707743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 584
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be9ab8afa2d0c489a975626c6e4022
+      internalID: 2051577330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 584
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33c207b2709fb8438a529030efb3759
+      internalID: -1735515199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3c27f5b76d4740941192187f22d56
+      internalID: 286357686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25e2f30f60f543438a3bee018f1384f
+      internalID: 705711880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af004e50d27ad434f99c50e63f99fe4e
+      internalID: 416948335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ca45435d7984409fb1b677f3c225e
+      internalID: -513367707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 576
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ca7db4ffebea48a05a7d3ad92cf47
+      internalID: -1474099897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 577
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c93f63ec0fc4049a60771867d44858
+      internalID: 1662858168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afc2c650239014d84b1d15bf7cdb71
+      internalID: -622908967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621569e33796cd042aecf9004f638562
+      internalID: -828831637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 564
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1741e42ff732a45aeae1dd7f5785e9
+      internalID: -555157785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 571
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f717422c93fc4d95f4cd74e963d8b
+      internalID: -1177803805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 571
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c740029e63b1448bc7851ae67c1d1b
+      internalID: 1442835559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 561
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7daeabbf324eb546882bf771af6d9f6
+      internalID: -1700316026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db452ae902554743b289149f2f8ce5a
+      internalID: -1206010140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af98c29edf1da4b4b9f655cafdf186c0
+      internalID: 1384061671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef228db27f90c4983c971a8ecd78ad
+      internalID: 1323051829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4556fbab07c51be428b00a10cd6847bd
+      internalID: -1347591118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e1820df22eb0245bc1c012a2346ff8
+      internalID: -682933166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_67
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 561
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f47a7c6aa3aa41893d8f6abd79e10
+      internalID: 552285640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 560
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc812d3651e8e34eb40cfac0767fe59
+      internalID: 963875117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 546
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b81bc26a23774c85a2d60b0374ae7
+      internalID: -708040874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ec862e8412ad4baa9f37e4695323e
+      internalID: 1021578085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66bf7dbb563cc45838012a78a58463
+      internalID: -948299905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd13385bbf10a49aa880d40b0cfc92
+      internalID: 1881487595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52768e707338d724bb4cc0580fcb3b95
+      internalID: 2056690641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547e0f9d23dd95a4e8b4891160a7aae7
+      internalID: 1431802947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab67c1c308308b449abd6dd563c51c7
+      internalID: -235404411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03beab1ca9764748b51c95df1b0b1d6
+      internalID: 551971820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77afde752e58f3242a05006c0adcad3b
+      internalID: -1046445013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252bebc887d069f4488161256bd3e036
+      internalID: -1537703584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3fe3db3bd6fa4597669d3e4d78ed4
+      internalID: -878905157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25aaa3aa3202244b5c1a77ce31ecd4
+      internalID: -1968156348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeed7b98217d699478d3ae354cd18507
+      internalID: -1263396849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88356d089c8214fae8ab16fcf7ca9e
+      internalID: -730177735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f6a9403bf899c49a9663284a020c09
+      internalID: -791939548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_84
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc113b71bc4816d4aa418d96383202ca
+      internalID: -955855533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc11d629df0ec64189e71acf4bcb752
+      internalID: -2115911759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5571cff8ad61964281b51e2ec2ef43e
+      internalID: -1325540613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_87
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa0f1f89c3d1242816eccbda50ae6a
+      internalID: -1728314522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56eeb2aae9ff164693c48ac8e149eac
+      internalID: -2119932091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf5e4a14ff887447b84e1e5ead876d6
+      internalID: 372151718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_90
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 288
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf561edd61c22841868c1f46d1279b9
+      internalID: -180127710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad0716bc15c2c41bd43875821ab826
+      internalID: 1850395197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_92
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10699aab9a809c74ab44fdef68e17955
+      internalID: 2052032016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 296
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a104f707a725d3409fd7358e5ef18b9
+      internalID: 410570303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d3fea3b9fa1a446b98b1fe2eb026f2
+      internalID: -1917290647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_95
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 288
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb4997f74bb274699e99624a05a9ef
+      internalID: 1519570376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_96
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 272
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f7da110cc0ec8459a9d398664d3afc
+      internalID: 1493645112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_97
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4bdf9e8af3f6443aecd40bcad6e91e
+      internalID: 566627232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abce1ccf6b72ea4d9a1ff27418c4fc3
+      internalID: -1165800329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_99
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 272
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3075c8b99ca1ea546b8749d6dc7191da
+      internalID: -144363667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 272
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8b19462422e444cb48dc5da5637e2a
+      internalID: 508201747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 272
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d106e6f3f6a34e9d0291136b9924d
+      internalID: 618821338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_102
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd10b7bafbfbb114e8660556803c9b6e
+      internalID: -1909641555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf6eb80191b2a41ae49b09e89f70e9
+      internalID: -206089428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5871a99e3fd218d4eb8eada5a7c2f141
+      internalID: 1858677598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_105
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c47e8df09dc4849b2b20b808e8f1b8
+      internalID: 1641399899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 272
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaf8a60ea7dab04fa0407e2f29e88d2
+      internalID: -1492147551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb8ff959ab4b448892e0afe4d47991
+      internalID: -156663373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1905dc4af528874680d25a4f304a041
+      internalID: 459862409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_109
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 248
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb73b9ae442e99847a0fbf1fb380597f
+      internalID: -384819208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05dbd4a21aa2794fbd982f62d6db718
+      internalID: 608020135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_111
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 248
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36140f63a9e644489d5edd69d35c06c
+      internalID: -534332229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a29e6ecffd0a45bacb1a16333f449
+      internalID: -1678047974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_113
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab6c7e6ed2274f4597eec30b4f1b13c
+      internalID: -965149991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 250
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8967b8b64777f4c8751a3bce050233
+      internalID: -627569072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_115
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 248
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54967a031a7574141841f206043f61f4
+      internalID: 234633197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_116
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 248
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053d8a7d33abeb44dafcb39f4326fff1
+      internalID: 1324195030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_117
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 249
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e175facd0d574daae8d7549a66da4
+      internalID: 496421796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_118
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 248
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ecd375113aaeb43952e9bae41005fe
+      internalID: 1141714418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_119
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 248
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c50967497324540a1694a559084c3d
+      internalID: 959377735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fdb9b6fc7948c47aceeda6579dacd2
+      internalID: 2145277780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_121
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 224
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e39cf4abc73df48818b474b9e11418
+      internalID: 858445582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 232
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b1fcaa362c3804cbd835930a3b3e6f
+      internalID: -273133269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 232
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57faece64a106ca41ab3734200b87523
+      internalID: -1326279888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_124
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 232
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27420a80434126243821a6cb8523f3c0
+      internalID: -1431545351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_125
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 232
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2556c847d6caa64cb364ebeff12e402
+      internalID: 97714838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_126
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 235
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81be8cc854c5b94788a963703dfb98b
+      internalID: -1032366995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_127
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 232
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc65b9d1f94fee448894db19568d4d51
+      internalID: -910530447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_128
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e037d9f29c21a0b42a94434df2dda769
+      internalID: -1755194958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c8a954e7b17844be7a84a1e34c315
+      internalID: -1229107292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_130
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a359679f76ecf4da14304bf0919006
+      internalID: 674612046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_131
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df874bc39298da44a870689dcd581bb
+      internalID: 325235306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89c55b0517b5c4e9a66962928ce2bb
+      internalID: 204366312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_133
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e298ca1be39d41a9facf62908bc35
+      internalID: -968739777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_134
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4158d9512f93f4fbd1f3e2a15cf9fb
+      internalID: -1812678080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d7cf04db156646ae070323d13bb65
+      internalID: 7399956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_136
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b060537e14d10c4cbcb25a531d66521
+      internalID: 812531110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_137
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527e3bafcfc09341a534d19cd1f340a
+      internalID: 2050735905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_138
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a26c8cb449705946957a87547255724
+      internalID: 1559509397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_139
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe970a3cbac4445b6d2b66735dbb0b
+      internalID: 1737206502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_140
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd46d40f574cc44ea4f973dc1c011c2
+      internalID: 1177337322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_141
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c61ba5ae6837745b40157b117fd79b
+      internalID: 266458142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_142
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9262172a71aa24b8804a811df590c7
+      internalID: 2135762425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_143
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba21083250871488ddedb956a0baad
+      internalID: 1607907026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_144
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e015a1ea23a44ca0f7ab789a55420
+      internalID: 210534827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_145
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac599964fa370fd4b9d52516c21ded36
+      internalID: -154517050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_146
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608ea48fb1847764789f382d4159aa89
+      internalID: -2146035894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed00e2cff8ff914c903d0a498a4fa9c
+      internalID: 62282032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_148
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b790c825831c448b88a07694f1b2ea
+      internalID: -636784864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_149
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386efc1433a2e5a49991b9e1622e949e
+      internalID: -1184164769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287bb6f657b6de42a1e783a295de81c
+      internalID: 651049853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_151
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363da30ec6bbec48ae3243195bbcccc
+      internalID: -1992635292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_152
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04748624452e7fc449bd7374efd6fd9e
+      internalID: -1225522514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_153
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53dae5816993b94b87e9f235defa702
+      internalID: 1307619420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_154
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3685d622cae143bafadc86283f295
+      internalID: -188019847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 25
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a64d22e3f27540b3bf16f158e393b
+      internalID: 80358837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_156
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd900e71805014bba42380fc36b285
+      internalID: -1364464143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_157
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe6f5ae65568814887ab03537418c84
+      internalID: -169453601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_158
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 25
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea87d58cdcd21ae418429d392ce60506
+      internalID: 287124484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_159
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153b09b5d16892e4a966deadcb6a6031
+      internalID: -2129518354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_160
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424afd7c3eb5114eac1590356d28893
+      internalID: 1567599226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f3dd92717eb14bbbbc84b616c45d2
+      internalID: 1397065671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494064f42435f0b408e9c980eed48671
+      internalID: -1220311336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_163
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0fcd59967011b4bb3229371c169c7a
+      internalID: -575029421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_164
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea5f8005e38fb547b84f2cf569759ff
+      internalID: -333695106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_165
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17917075b04044749898f07b5c3fd901
+      internalID: -1737448306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_166
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122d5e4367576b41a43cc1224536051
+      internalID: 1796647307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_167
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52242aec6c1f94e92b4d1bf33b349d
+      internalID: -1977984816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_168
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 25
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a6d273b8622444a998edb3b75d360
+      internalID: 1995914870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_169
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed9462319433d45bb00848acc42300
+      internalID: -1926671852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_170
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f0ca3e8717ca945ad41a5b55554a52
+      internalID: 1202298085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_171
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412ea9e878bcd84f99334ff776dc709
+      internalID: 83041569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_172
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfef965e0283c4d89b5108d88ce465
+      internalID: -1024697355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_173
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86efc195fc8f804408c0b5aca5ee94f3
+      internalID: 1294898629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_174
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec073eb5eb586a4993d14fb60a53faa
+      internalID: 1118528496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_175
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff14be39bdbd35447803b1eaa29c4fde
+      internalID: 79839081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_176
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed37cd12be99946bfd84f42f727ae2
+      internalID: 1868940365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_177
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d8be0ad1c69349948b4183aa4fb9f
+      internalID: -2694243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_178
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa163e1575105b46b886eab89fedffe
+      internalID: -693757432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_179
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ec67b541b2b042a31b4246b019e3c
+      internalID: -691485644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_180
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50874edb5dc524f4f96db5955dd8d2f5
+      internalID: -172290678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_181
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e15da82eb1a9a4ab21ad4587224700
+      internalID: -942758579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_182
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7515a514715694abc02ed13c5bb5a9
+      internalID: -1383886743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_183
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5509ba02097e27c49a74bed5af168225
+      internalID: -1672380434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_184
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb89791cc527947a6aae2a5a57b806
+      internalID: 1075338812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_185
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190ccde66d28f04db8753d373ecebd8
+      internalID: 276227470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_186
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c306fd798f7d4cadfc0f2d0236888
+      internalID: -286284086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_187
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4552bbe1a92f274eacae6219f74cd78
+      internalID: -1444516500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_188
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391b3ee15b934c94dbf943c226233cc2
+      internalID: 1372387417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_189
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a5b0c8cf11774d89af41340300da1
+      internalID: -1852157684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_190
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a000d7aa945a4b14e9dcefa0ca1255f0
+      internalID: 132709169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_191
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187956973c0eb524a8894d641c61bef8
+      internalID: 2123483661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_192
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2333106e044cf8d4d94df0880c616667
+      internalID: -160885741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_193
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e5b49a9a90924498fa336a67f12ba4
+      internalID: -1153078222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_194
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7125b396ff21748aea1da59c242f28
+      internalID: 719854261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_195
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86601cc5d24393d41ad640de56a61392
+      internalID: 904737893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_196
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980d6509ada20c4291b238d8dc9056f
+      internalID: -1627001047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_197
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f362a39cb308c4ba71ce16e36882ee
+      internalID: -1600324185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_198
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aefab271544db44db9bc37601404a22
+      internalID: -262284379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_199
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60476ecc5b4f7ad4899d9c7b89f83e37
+      internalID: 1471444579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_200
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e881d07a5204b4c4b94793d4131a07ba
+      internalID: 1452564429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_201
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2e5f72b52d2344ab89bd702284139
+      internalID: -1405785647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_202
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3339c7531dfe8eb499c945dd229ba656
+      internalID: 974264073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_203
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b81f06806f084f9190d21e394424e
+      internalID: 1931901686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_204
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca096e73454da438f6547619fdc763
+      internalID: 239136463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_205
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d254ad53b44daa42a54ea73143584ac
+      internalID: -225294683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_206
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f058950a19f59f4e94f99f5de4a8d9b
+      internalID: -319894311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_by_AxulArt_207
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25378181558a54c458c3dc931fcb5444
+      internalID: -348035057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2D_Cute_Platform_ALL_by_AxulArt_0: 328517420
+      2D_Cute_Platform_ALL_by_AxulArt_1: -1121677787
+      2D_Cute_Platform_ALL_by_AxulArt_10: 182859396
+      2D_Cute_Platform_ALL_by_AxulArt_100: 508201747
+      2D_Cute_Platform_ALL_by_AxulArt_101: 618821338
+      2D_Cute_Platform_ALL_by_AxulArt_102: -1909641555
+      2D_Cute_Platform_ALL_by_AxulArt_103: -206089428
+      2D_Cute_Platform_ALL_by_AxulArt_104: 1858677598
+      2D_Cute_Platform_ALL_by_AxulArt_105: 1641399899
+      2D_Cute_Platform_ALL_by_AxulArt_106: -1492147551
+      2D_Cute_Platform_ALL_by_AxulArt_107: -156663373
+      2D_Cute_Platform_ALL_by_AxulArt_108: 459862409
+      2D_Cute_Platform_ALL_by_AxulArt_109: -384819208
+      2D_Cute_Platform_ALL_by_AxulArt_11: 430199417
+      2D_Cute_Platform_ALL_by_AxulArt_110: 608020135
+      2D_Cute_Platform_ALL_by_AxulArt_111: -534332229
+      2D_Cute_Platform_ALL_by_AxulArt_112: -1678047974
+      2D_Cute_Platform_ALL_by_AxulArt_113: -965149991
+      2D_Cute_Platform_ALL_by_AxulArt_114: -627569072
+      2D_Cute_Platform_ALL_by_AxulArt_115: 234633197
+      2D_Cute_Platform_ALL_by_AxulArt_116: 1324195030
+      2D_Cute_Platform_ALL_by_AxulArt_117: 496421796
+      2D_Cute_Platform_ALL_by_AxulArt_118: 1141714418
+      2D_Cute_Platform_ALL_by_AxulArt_119: 959377735
+      2D_Cute_Platform_ALL_by_AxulArt_12: -1649905444
+      2D_Cute_Platform_ALL_by_AxulArt_120: 2145277780
+      2D_Cute_Platform_ALL_by_AxulArt_121: 858445582
+      2D_Cute_Platform_ALL_by_AxulArt_122: -273133269
+      2D_Cute_Platform_ALL_by_AxulArt_123: -1326279888
+      2D_Cute_Platform_ALL_by_AxulArt_124: -1431545351
+      2D_Cute_Platform_ALL_by_AxulArt_125: 97714838
+      2D_Cute_Platform_ALL_by_AxulArt_126: -1032366995
+      2D_Cute_Platform_ALL_by_AxulArt_127: -910530447
+      2D_Cute_Platform_ALL_by_AxulArt_128: -1755194958
+      2D_Cute_Platform_ALL_by_AxulArt_129: -1229107292
+      2D_Cute_Platform_ALL_by_AxulArt_13: 2006749798
+      2D_Cute_Platform_ALL_by_AxulArt_130: 674612046
+      2D_Cute_Platform_ALL_by_AxulArt_131: 325235306
+      2D_Cute_Platform_ALL_by_AxulArt_132: 204366312
+      2D_Cute_Platform_ALL_by_AxulArt_133: -968739777
+      2D_Cute_Platform_ALL_by_AxulArt_134: -1812678080
+      2D_Cute_Platform_ALL_by_AxulArt_135: 7399956
+      2D_Cute_Platform_ALL_by_AxulArt_136: 812531110
+      2D_Cute_Platform_ALL_by_AxulArt_137: 2050735905
+      2D_Cute_Platform_ALL_by_AxulArt_138: 1559509397
+      2D_Cute_Platform_ALL_by_AxulArt_139: 1737206502
+      2D_Cute_Platform_ALL_by_AxulArt_14: -912434549
+      2D_Cute_Platform_ALL_by_AxulArt_140: 1177337322
+      2D_Cute_Platform_ALL_by_AxulArt_141: 266458142
+      2D_Cute_Platform_ALL_by_AxulArt_142: 2135762425
+      2D_Cute_Platform_ALL_by_AxulArt_143: 1607907026
+      2D_Cute_Platform_ALL_by_AxulArt_144: 210534827
+      2D_Cute_Platform_ALL_by_AxulArt_145: -154517050
+      2D_Cute_Platform_ALL_by_AxulArt_146: -2146035894
+      2D_Cute_Platform_ALL_by_AxulArt_147: 62282032
+      2D_Cute_Platform_ALL_by_AxulArt_148: -636784864
+      2D_Cute_Platform_ALL_by_AxulArt_149: -1184164769
+      2D_Cute_Platform_ALL_by_AxulArt_15: 1781308655
+      2D_Cute_Platform_ALL_by_AxulArt_150: 651049853
+      2D_Cute_Platform_ALL_by_AxulArt_151: -1992635292
+      2D_Cute_Platform_ALL_by_AxulArt_152: -1225522514
+      2D_Cute_Platform_ALL_by_AxulArt_153: 1307619420
+      2D_Cute_Platform_ALL_by_AxulArt_154: -188019847
+      2D_Cute_Platform_ALL_by_AxulArt_155: 80358837
+      2D_Cute_Platform_ALL_by_AxulArt_156: -1364464143
+      2D_Cute_Platform_ALL_by_AxulArt_157: -169453601
+      2D_Cute_Platform_ALL_by_AxulArt_158: 287124484
+      2D_Cute_Platform_ALL_by_AxulArt_159: -2129518354
+      2D_Cute_Platform_ALL_by_AxulArt_16: 233446754
+      2D_Cute_Platform_ALL_by_AxulArt_160: 1567599226
+      2D_Cute_Platform_ALL_by_AxulArt_161: 1397065671
+      2D_Cute_Platform_ALL_by_AxulArt_162: -1220311336
+      2D_Cute_Platform_ALL_by_AxulArt_163: -575029421
+      2D_Cute_Platform_ALL_by_AxulArt_164: -333695106
+      2D_Cute_Platform_ALL_by_AxulArt_165: -1737448306
+      2D_Cute_Platform_ALL_by_AxulArt_166: 1796647307
+      2D_Cute_Platform_ALL_by_AxulArt_167: -1977984816
+      2D_Cute_Platform_ALL_by_AxulArt_168: 1995914870
+      2D_Cute_Platform_ALL_by_AxulArt_169: -1926671852
+      2D_Cute_Platform_ALL_by_AxulArt_17: 169071616
+      2D_Cute_Platform_ALL_by_AxulArt_170: 1202298085
+      2D_Cute_Platform_ALL_by_AxulArt_171: 83041569
+      2D_Cute_Platform_ALL_by_AxulArt_172: -1024697355
+      2D_Cute_Platform_ALL_by_AxulArt_173: 1294898629
+      2D_Cute_Platform_ALL_by_AxulArt_174: 1118528496
+      2D_Cute_Platform_ALL_by_AxulArt_175: 79839081
+      2D_Cute_Platform_ALL_by_AxulArt_176: 1868940365
+      2D_Cute_Platform_ALL_by_AxulArt_177: -2694243
+      2D_Cute_Platform_ALL_by_AxulArt_178: -693757432
+      2D_Cute_Platform_ALL_by_AxulArt_179: -691485644
+      2D_Cute_Platform_ALL_by_AxulArt_18: 1049554573
+      2D_Cute_Platform_ALL_by_AxulArt_180: -172290678
+      2D_Cute_Platform_ALL_by_AxulArt_181: -942758579
+      2D_Cute_Platform_ALL_by_AxulArt_182: -1383886743
+      2D_Cute_Platform_ALL_by_AxulArt_183: -1672380434
+      2D_Cute_Platform_ALL_by_AxulArt_184: 1075338812
+      2D_Cute_Platform_ALL_by_AxulArt_185: 276227470
+      2D_Cute_Platform_ALL_by_AxulArt_186: -286284086
+      2D_Cute_Platform_ALL_by_AxulArt_187: -1444516500
+      2D_Cute_Platform_ALL_by_AxulArt_188: 1372387417
+      2D_Cute_Platform_ALL_by_AxulArt_189: -1852157684
+      2D_Cute_Platform_ALL_by_AxulArt_19: -326274600
+      2D_Cute_Platform_ALL_by_AxulArt_190: 132709169
+      2D_Cute_Platform_ALL_by_AxulArt_191: 2123483661
+      2D_Cute_Platform_ALL_by_AxulArt_192: -160885741
+      2D_Cute_Platform_ALL_by_AxulArt_193: -1153078222
+      2D_Cute_Platform_ALL_by_AxulArt_194: 719854261
+      2D_Cute_Platform_ALL_by_AxulArt_195: 904737893
+      2D_Cute_Platform_ALL_by_AxulArt_196: -1627001047
+      2D_Cute_Platform_ALL_by_AxulArt_197: -1600324185
+      2D_Cute_Platform_ALL_by_AxulArt_198: -262284379
+      2D_Cute_Platform_ALL_by_AxulArt_199: 1471444579
+      2D_Cute_Platform_ALL_by_AxulArt_2: 748709592
+      2D_Cute_Platform_ALL_by_AxulArt_20: 190351891
+      2D_Cute_Platform_ALL_by_AxulArt_200: 1452564429
+      2D_Cute_Platform_ALL_by_AxulArt_201: -1405785647
+      2D_Cute_Platform_ALL_by_AxulArt_202: 974264073
+      2D_Cute_Platform_ALL_by_AxulArt_203: 1931901686
+      2D_Cute_Platform_ALL_by_AxulArt_204: 239136463
+      2D_Cute_Platform_ALL_by_AxulArt_205: -225294683
+      2D_Cute_Platform_ALL_by_AxulArt_206: -319894311
+      2D_Cute_Platform_ALL_by_AxulArt_207: -348035057
+      2D_Cute_Platform_ALL_by_AxulArt_21: -1728965734
+      2D_Cute_Platform_ALL_by_AxulArt_22: -617684517
+      2D_Cute_Platform_ALL_by_AxulArt_23: -1512170302
+      2D_Cute_Platform_ALL_by_AxulArt_24: -1032221493
+      2D_Cute_Platform_ALL_by_AxulArt_25: -171972956
+      2D_Cute_Platform_ALL_by_AxulArt_26: 86130274
+      2D_Cute_Platform_ALL_by_AxulArt_27: -11910907
+      2D_Cute_Platform_ALL_by_AxulArt_28: 1465191444
+      2D_Cute_Platform_ALL_by_AxulArt_29: -578524648
+      2D_Cute_Platform_ALL_by_AxulArt_3: -1352701120
+      2D_Cute_Platform_ALL_by_AxulArt_30: 1137669649
+      2D_Cute_Platform_ALL_by_AxulArt_31: 249012997
+      2D_Cute_Platform_ALL_by_AxulArt_32: -183868778
+      2D_Cute_Platform_ALL_by_AxulArt_33: 131667306
+      2D_Cute_Platform_ALL_by_AxulArt_34: 365058088
+      2D_Cute_Platform_ALL_by_AxulArt_35: 457190854
+      2D_Cute_Platform_ALL_by_AxulArt_36: 620896424
+      2D_Cute_Platform_ALL_by_AxulArt_37: -517917640
+      2D_Cute_Platform_ALL_by_AxulArt_38: 1059162248
+      2D_Cute_Platform_ALL_by_AxulArt_39: -1161441528
+      2D_Cute_Platform_ALL_by_AxulArt_4: -1308962092
+      2D_Cute_Platform_ALL_by_AxulArt_40: -1380302291
+      2D_Cute_Platform_ALL_by_AxulArt_41: 1439964700
+      2D_Cute_Platform_ALL_by_AxulArt_42: -1467154506
+      2D_Cute_Platform_ALL_by_AxulArt_43: 2092295237
+      2D_Cute_Platform_ALL_by_AxulArt_44: -652759225
+      2D_Cute_Platform_ALL_by_AxulArt_45: 45909502
+      2D_Cute_Platform_ALL_by_AxulArt_46: -729613152
+      2D_Cute_Platform_ALL_by_AxulArt_47: -2707743
+      2D_Cute_Platform_ALL_by_AxulArt_48: 2051577330
+      2D_Cute_Platform_ALL_by_AxulArt_49: -1735515199
+      2D_Cute_Platform_ALL_by_AxulArt_5: 404148475
+      2D_Cute_Platform_ALL_by_AxulArt_50: 286357686
+      2D_Cute_Platform_ALL_by_AxulArt_51: 705711880
+      2D_Cute_Platform_ALL_by_AxulArt_52: 416948335
+      2D_Cute_Platform_ALL_by_AxulArt_53: -513367707
+      2D_Cute_Platform_ALL_by_AxulArt_54: -1474099897
+      2D_Cute_Platform_ALL_by_AxulArt_55: 1662858168
+      2D_Cute_Platform_ALL_by_AxulArt_56: -622908967
+      2D_Cute_Platform_ALL_by_AxulArt_57: -828831637
+      2D_Cute_Platform_ALL_by_AxulArt_58: -555157785
+      2D_Cute_Platform_ALL_by_AxulArt_59: -1177803805
+      2D_Cute_Platform_ALL_by_AxulArt_6: 1690066335
+      2D_Cute_Platform_ALL_by_AxulArt_60: 1442835559
+      2D_Cute_Platform_ALL_by_AxulArt_61: -1700316026
+      2D_Cute_Platform_ALL_by_AxulArt_62: -1206010140
+      2D_Cute_Platform_ALL_by_AxulArt_63: 1384061671
+      2D_Cute_Platform_ALL_by_AxulArt_64: 1323051829
+      2D_Cute_Platform_ALL_by_AxulArt_65: -1347591118
+      2D_Cute_Platform_ALL_by_AxulArt_66: -682933166
+      2D_Cute_Platform_ALL_by_AxulArt_67: 552285640
+      2D_Cute_Platform_ALL_by_AxulArt_68: 963875117
+      2D_Cute_Platform_ALL_by_AxulArt_69: -708040874
+      2D_Cute_Platform_ALL_by_AxulArt_7: 516877400
+      2D_Cute_Platform_ALL_by_AxulArt_70: 1021578085
+      2D_Cute_Platform_ALL_by_AxulArt_71: -948299905
+      2D_Cute_Platform_ALL_by_AxulArt_72: 1881487595
+      2D_Cute_Platform_ALL_by_AxulArt_73: 2056690641
+      2D_Cute_Platform_ALL_by_AxulArt_74: 1431802947
+      2D_Cute_Platform_ALL_by_AxulArt_75: -235404411
+      2D_Cute_Platform_ALL_by_AxulArt_76: 551971820
+      2D_Cute_Platform_ALL_by_AxulArt_77: -1046445013
+      2D_Cute_Platform_ALL_by_AxulArt_78: -1537703584
+      2D_Cute_Platform_ALL_by_AxulArt_79: -878905157
+      2D_Cute_Platform_ALL_by_AxulArt_8: -1806498839
+      2D_Cute_Platform_ALL_by_AxulArt_80: -1968156348
+      2D_Cute_Platform_ALL_by_AxulArt_81: -1263396849
+      2D_Cute_Platform_ALL_by_AxulArt_82: -730177735
+      2D_Cute_Platform_ALL_by_AxulArt_83: -791939548
+      2D_Cute_Platform_ALL_by_AxulArt_84: -955855533
+      2D_Cute_Platform_ALL_by_AxulArt_85: -2115911759
+      2D_Cute_Platform_ALL_by_AxulArt_86: -1325540613
+      2D_Cute_Platform_ALL_by_AxulArt_87: -1728314522
+      2D_Cute_Platform_ALL_by_AxulArt_88: -2119932091
+      2D_Cute_Platform_ALL_by_AxulArt_89: 372151718
+      2D_Cute_Platform_ALL_by_AxulArt_9: -1754116009
+      2D_Cute_Platform_ALL_by_AxulArt_90: -180127710
+      2D_Cute_Platform_ALL_by_AxulArt_91: 1850395197
+      2D_Cute_Platform_ALL_by_AxulArt_92: 2052032016
+      2D_Cute_Platform_ALL_by_AxulArt_93: 410570303
+      2D_Cute_Platform_ALL_by_AxulArt_94: -1917290647
+      2D_Cute_Platform_ALL_by_AxulArt_95: 1519570376
+      2D_Cute_Platform_ALL_by_AxulArt_96: 1493645112
+      2D_Cute_Platform_ALL_by_AxulArt_97: 566627232
+      2D_Cute_Platform_ALL_by_AxulArt_98: -1165800329
+      2D_Cute_Platform_ALL_by_AxulArt_99: -144363667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
