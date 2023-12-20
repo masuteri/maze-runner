@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public static PlayerController instance;
     [SerializeField] private float moveSpeed;
     [SerializeField] private float jumpForce;
 
@@ -17,27 +18,43 @@ public class PlayerController : MonoBehaviour
 
     private bool isGrounded;
 
+    public bool PlayerCanMove
+    {
+        get;
+        set;
+    }
+    public Transform groundCheckPoint;
+    public float groundCheckRadius;
+    public LayerMask whatIsGround;
+    private bool IsGrounded;
     // Start is called before the first frame update
     void Start()
     {
+        instance = this;
         rb2d = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        PlayerCanMove = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        // Check if the player is grounded
-        isGrounded = Physics2D.Raycast(transform.position, Vector2.down, 0.1f);
-
-        MovePlayer();
+        if (PlayerCanMove)
+        {
+            MovePlayer();
+        }
+        else
+        {
+            rb2d.velocity = Vector2.zero;
+            return;
+        }
+        isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, whatIsGround);
     }
 
     private void MovePlayer()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
         rb2d.velocity = new Vector2(horizontalInput * moveSpeed, rb2d.velocity.y);
-
         if (horizontalInput < 0)
         {
             spriteRenderer.flipX = true;
